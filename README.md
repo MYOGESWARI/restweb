@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:12/12/2024
+## Date:17/12/2024
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -211,7 +211,7 @@ ul {
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-17 144612.png>)
+![alt text](<yuva/restapp/static/Screenshot 2024-12-17 144612.png>)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
