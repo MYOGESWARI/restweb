@@ -380,10 +380,14 @@ Publish the website in the given URL.
 
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2024-12-25 224936.png>)
-![alt text](<Screenshot 2024-12-25 230657-1.png>)
-![alt text](<Screenshot 2024-12-25 231143-1.png>)
-![alt text](<Screenshot 2024-12-25 231543.png>)
+![alt text](<Screenshot 2024-12-31 160830.png>)
+
+![alt text](<Screenshot 2024-12-31 160732.png>)
+
+![alt text](<Screenshot 2024-12-31 160720.png>)
+
+![alt text](<Screenshot 2024-12-31 160749.png>)
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
